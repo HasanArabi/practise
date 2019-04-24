@@ -1,0 +1,144 @@
+<html>
+
+
+<head>
+</head>
+
+
+<body>
+
+  <ul>
+
+      <li>    <a href="#friends">Friends</a>              </li>
+      <li>    <a href="#Ratul">Friends</a>                </li>
+      <li>    <a href="#Rahim">Friends</a>                </li>
+      <li>    <a href="#Imon">Friends</a>                 </li>
+      <li>   <a href="#Sagar">Friends</a>                </li>
+       <li>   <a href="#Samanto">Friends</a>                </li>
+      <li>   <a href="#Mashir">Friends</a>                </li>
+      <li>   <a href="#Piyus">Friends</a>                </li>
+  
+
+</ul>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Friends">This article is about my Friends.</a> </p>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Friends">This article is about my Friends.</a> </p>
+<p1>Ratul is my best friend</p1>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Ratul">This article is about my Friends.</a> </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Rahim">This article is about my Friends.</a> </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Imon">This article is about my Friends.</a> </p>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Sagar">This article is about my Friends.</a> </p>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Samanto">This article is about my Friends.</a> </p>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Mashir">This article is about my Friends.</a> </p>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Piyus">This article is about my Friends.</a> </p>
+
+
+</body>
+
+
+
+</html>
